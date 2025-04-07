@@ -1,0 +1,5 @@
+Spring boot Schedule .JAdvallar bilan ishlash .
+Har Juma 13:00 da Avtomatik topshiriq yaratadi.Unda Optionlar bialn tanishish. 
+Fixed Rate : 1 sekunda 1 amal bajariilaveradi. Fixed Delay : Unda amal bajarilgandan keyin 1 sekund otib,
+yana amal bajariladi.
+cron: a a a a a a bunda oy kun vaqt beraolamiz.
