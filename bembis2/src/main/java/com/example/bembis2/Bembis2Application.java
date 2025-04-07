@@ -8,6 +8,10 @@ public class Bembis2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Bembis2Application.class, args);
+		
+	}
+	public void sinadim(){
+	System.out.print("Bunda update qilish");
 	}
 
 }
