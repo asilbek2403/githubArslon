@@ -49,12 +49,14 @@ public class Main {
             num3 = temp;
         }
 
+        
         if (num1 > num2) {
             int temp = num1;
             num1 = num2;
             num2 = temp;
         }
 
+        
         // Natijani chiqarish
         System.out.println("O'sish tartibida sonlar: " + num1 + ", " + num2 + ", " + num3);
     }
