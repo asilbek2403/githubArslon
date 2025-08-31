@@ -14,6 +14,8 @@ public class l2fun {
         
         int y=n.fuk(c, h);
         System.out.println(y);
+    System.out.print("Muvaffaqqiyat Doim sen bilan");
+    
     }
     
 }
